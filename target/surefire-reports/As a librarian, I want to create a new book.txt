@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: As a librarian, I want to create a new book
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 29.034 s <<< FAILURE! - in As a librarian, I want to create a new book
+As a librarian, I want to create a new book.Create a new book all layers  Time elapsed: 24.235 s  <<< FAILURE!
+java.lang.AssertionError: expected:<{name=A Catskill Eagle3, isbn=1792710704, year=1177, author=Nelly Hagenes, book_category_id=8, description=Chuck Norris's first program was kill -9.}> but was:<{}>
+
